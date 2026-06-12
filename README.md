@@ -80,6 +80,7 @@
 
 ---
 
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -94,6 +95,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saieswa&layout=compact&theme=tokyonight" />
 </p>
 
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Saieswari?theme=dark&font=Nunito&ext=contest" />
+</p>
 
 
 ---
