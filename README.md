@@ -83,25 +83,18 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=saieswa&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saieswa&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saieswa&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-# 🏆 Achievements
-
-- Built scalable backend systems with optimized API workflows  
-- Developed AI-powered applications using NLP and semantic search  
-- Strong understanding of Data Structures, Object-Oriented Programming, REST APIs, and Database Design  
-- Experience with Agile development and backend optimization techniques  
 
 ---
 
