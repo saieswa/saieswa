@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Eswari</h1>
-<h3 align="center">Backend Developer | Java Developer</h3>
+<h3 align="center">Software Developer h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
