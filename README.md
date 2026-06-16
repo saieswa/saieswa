@@ -109,7 +109,7 @@
 # 📫 Contact Me
 
 📧 Email: **sai2004eswari@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/sai-eswari-268b3a248/**  
+💼 LinkedIn: **https://www.linkedin.com/in/sai-eswari-p/**  
 🌐 Portfolio: **https://saieswari.netlify.app/**  
 
 ---
